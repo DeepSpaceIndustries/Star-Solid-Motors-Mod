@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2135884626, guid: c37b925f2b4978342b2e0b83a8fa404a, type: 3}
+  m_Name: _PartModelImportData
+  m_EditorClassIdentifier: 
+  _models:
+  - _id: Star48Model10
+    _meshes:
+    - _id: Cylinder
+      _initialized: 1
+      _isCollider: 0
+      _antiDistortion: 0
+      _mesh: {fileID: 2534964839176971238, guid: 09a1f533c47e14a4b99b4044b82ddfe8, type: 3}
+      _sortOrderOverride: 
+      _submeshMap: 03000000
+      _subpartId: 3
+    - _id: Cylinder.001
+      _initialized: 1
+      _isCollider: 0
+      _antiDistortion: 0
+      _mesh: {fileID: -7387706064836869012, guid: 09a1f533c47e14a4b99b4044b82ddfe8, type: 3}
+      _sortOrderOverride: 
+      _submeshMap: 03000000
+      _subpartId: 3
+    - _id: FuelTank
+      _initialized: 1
+      _isCollider: 0
+      _antiDistortion: 0
+      _mesh: {fileID: 1394636399847062218, guid: 09a1f533c47e14a4b99b4044b82ddfe8, type: 3}
+      _sortOrderOverride: 
+      _submeshMap: 00000000
+      _subpartId: 0
+    - _id: Nozzle
+      _initialized: 1
+      _isCollider: 0
+      _antiDistortion: 0
+      _mesh: {fileID: 7145417245639539162, guid: 09a1f533c47e14a4b99b4044b82ddfe8, type: 3}
+      _sortOrderOverride: 
+      _submeshMap: 01000000
+      _subpartId: 1
+    - _id: Stage Ring
+      _initialized: 1
+      _isCollider: 0
+      _antiDistortion: 0
+      _mesh: {fileID: 5721453828552044225, guid: 09a1f533c47e14a4b99b4044b82ddfe8, type: 3}
+      _sortOrderOverride: 
+      _submeshMap: 02000000
+      _subpartId: 2
+    _model: {fileID: 919132149155446097, guid: 09a1f533c47e14a4b99b4044b82ddfe8, type: 3}

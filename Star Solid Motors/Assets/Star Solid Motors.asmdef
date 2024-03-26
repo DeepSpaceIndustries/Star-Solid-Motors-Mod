@@ -1,0 +1,8 @@
+{
+	"name": "Star Solid Motors",
+	"references": [
+		"UnityEngine.UI",
+		"Unity.TextMeshPro",
+		"Unity.Mathematics"
+	]
+}
